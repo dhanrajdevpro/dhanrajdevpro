@@ -21,8 +21,6 @@
 - Working as a **Software Development Engineer** at **COMCAST India** since **July 2023**.
 - Always learning and exploring the latest in **web development**.
 
----
-
 <!---
 dhanrajdevpro/dhanrajdevpro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
